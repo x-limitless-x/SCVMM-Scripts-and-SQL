@@ -1,5 +1,5 @@
 # System Center Virtual Machine Manager Script / Guide Repository
-This is where all scripts and SQL Queries I find useful for SCVMM and SQL will be stored. \
+This is where all scripts and SQL Queries I find useful for SCVMM will be stored. \
 [![Visits Badge](https://badges.pufler.dev/visits/blakedrumm/SCVMM-Scripts-and-SQL)](https://badges.pufler.dev)
 <!--[![Updated Badge](https://badges.pufler.dev/updated/blakedrumm/SCVMM-Scripts-and-SQL)](https://badges.pufler.dev) -->
 
